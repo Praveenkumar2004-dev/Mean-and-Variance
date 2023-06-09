@@ -1,17 +1,16 @@
-#  Mean and variance of a discrete  distribution
+# EX NO: 1
+# DATE: 
+# Mean and variance of a discrete  distribution
 
 
 # Aim : 
-
 To find mean and variance of arrival of objects from the feeder using probability distribution
 
 
 # Software required :  
-
 Python and Visual components tool
 
 # Theory:
-
 The expectation or the mean of a discrete random variable is a weighted average of all possible
 values of the random variable. The weights are the probabilities associated with the corresponding values. 
 It is calculated as,
@@ -25,7 +24,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 # Procedure :
-
 1. Construct frequency distribution for the data
 
 2. Find the  probability distribution from frequency distribution.
